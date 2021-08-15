@@ -26,8 +26,8 @@ void show(char mass[stroki][stolbi]) {
 		cout << endl;
 	}
 	cout << "\n\n\n\n\n------------------------------------------------\nWelcome to the basement of horror!\nGo through 10 rooms and you're free!!!\nYou only have three lives, don't waste them.\nBackground Information :\nyou \t" << govard << "\nEnemy\t" << Enemy1 << "\nEnemy2 \t" << Enemy2 << "\nbullet gowarad \t" << bulletGovard << "\nbullet enemy \t" << bulletEnemy1 << "\nRiver(abyss) \t" << river << "\nDoor \t" << dver << "\nWall \t" << stena <<"\nflimsy wall \t" << wall1<<" "<<wall2 << "\nHealth \t" << (char)3 << endl;
-	cout << "Conrtols:\n" << "up\t'8'\n" << "down\t'2'\n" << "right\t'6'\n" << "left\t'4'\n";
-	cout << "Shoot up\t'80'\n" << "Shoot down\t'20'\n" << "Shoot right\t'60'\n" << "Shoot left\t'40'\n";
+	cout << "Conrtols:\n" << "up\t'W'\n" << "down\t'S'\n" << "right\t'D'\n" << "left\t'A'\n";
+	cout << "Shoot up\t'Up arrow'\n" << "Shoot down\t'Down arrow'\n" << "Shoot right\t'Right arrow'\n" << "Shoot left\t'Left arrow'\n";
 	cout << "If the screen flickers very often, it means you have received damage, be careful!";
 	setcur(0, 10);
 }
