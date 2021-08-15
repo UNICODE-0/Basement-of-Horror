@@ -1,0 +1,2 @@
+F:\Projects visual studio\с++\igra_3\Debug\igra_3.exe
+F:\Projects visual studio\с++\igra_3\Debug\igra_3.pdb

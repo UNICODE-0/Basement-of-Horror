@@ -1,0 +1,5 @@
+F:\Projects visual studio\с++\igra_3\x64\Debug\igra_3.exe
+F:\Projects visual studio\с++\igra_3\x64\Debug\igra_3.pdb
+C:\Users\rusra\Desktop\igra_3\x64\Debug\igra_3.exe
+C:\Users\rusra\Desktop\igra_3\x64\Debug\igra_3.pdb
+D:\Projects visual studio\с++\Final_Game\x64\Debug\igra_3.exe

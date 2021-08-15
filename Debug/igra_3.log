@@ -1,0 +1,3 @@
+﻿  igra_3.cpp
+F:\Projects visual studio\с++\igra_3\igra_3.cpp(352,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  igra_3.vcxproj -> F:\Projects visual studio\с++\igra_3\Debug\igra_3.exe
